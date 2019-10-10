@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abb0fcb1-6908-46c4-a9cf-e0f23a3a19fe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RzPkpTjm2tOFF46LjPCsbB4RF9" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LearningMockitoTest.settingUpTheMockToReturnAValue">
+    <configuration name="LearningMockitoTest.settingUpTheMockToReturnAValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LearningMockitoTest" />
+      <option name="METHOD_NAME" value="settingUpTheMockToReturnAValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningMockitoTest.verifyingWhenACallHappensOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LearningMockitoTest" />
+      <option name="METHOD_NAME" value="verifyingWhenACallHappensOnce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningMockitoTest.verifyingWhenACallHappensTwice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LearningMockitoTest" />
+      <option name="METHOD_NAME" value="verifyingWhenACallHappensTwice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningMockitoTest.verifyingWhenAMethodIsCalledWithAParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LearningMockitoTest" />
+      <option name="METHOD_NAME" value="verifyingWhenAMethodIsCalledWithAParameter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningMockitoTest.verifyingWhenAMethodIsCalledWithAnyParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="emockito" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LearningMockitoTest" />
+      <option name="METHOD_NAME" value="verifyingWhenAMethodIsCalledWithAnyParameter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LearningMockitoTest.settingUpTheMockToReturnAValue" />
+        <item itemvalue="JUnit.LearningMockitoTest.verifyingWhenAMethodIsCalledWithAnyParameter" />
+        <item itemvalue="JUnit.LearningMockitoTest.verifyingWhenAMethodIsCalledWithAParameter" />
+        <item itemvalue="JUnit.LearningMockitoTest.verifyingWhenACallHappensTwice" />
+        <item itemvalue="JUnit.LearningMockitoTest.verifyingWhenACallHappensOnce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abb0fcb1-6908-46c4-a9cf-e0f23a3a19fe" name="Default Changelist" comment="" />
+      <created>1570667096508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570667096508</updated>
+    </task>
+    <servers />
+  </component>
+</project>
